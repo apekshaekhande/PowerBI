@@ -1,6 +1,1 @@
-#Pizza_Sales_Model
-vkgkjk
-bjguhiu
-bjgiuiy
-lkjhiuyiyiu
-nbjguhuih
+#Pizza_Sales_model
