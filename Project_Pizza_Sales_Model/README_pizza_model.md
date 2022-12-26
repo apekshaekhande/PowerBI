@@ -15,7 +15,6 @@ pizza_size: Size of the pizza (Small, Medium, Large, X Large, or XX Large)
 pizza_type: Unique key identifier that ties the pizza ordered to its details, like size and price
 pizza_ingredients: ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they all include Tomato Sauce, unless another sauce is specified)
 pizza_name: Name of the pizza as shown in the menu
-🍕The Pizza Challenge
 
 
 Welcome aboard, we're glad you're here to help!
@@ -28,17 +27,3 @@ What days and times do we tend to be busiest?
 How many pizzas are we making during peak periods?
 What are our best and worst-selling pizzas?
 What's our average order value?
-How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
-That's all I can think of for now, but if you have any other ideas I'd love to hear them – you're the expert!
-
-Thanks in advance,
-
-Mario Maven (Manager, Plato's Pizza)
-
-Colllection Methodology
-The public dataset is completely available on the Maven Analytics website platform where it stores and consolidates all available datasets for analysis in the Data Playground. The specific individual datasets at hand can be obtained at this link below: https://www.mavenanalytics.io/blog/maven-pizza-challenge
-
-📌I set up the data model to include all the related instances in one single table so obtaining data for analysis is made easier.
-
-My Inspiration
-Complete details were also provided about the challenge in the link if you are interested. The purpose of uploading here is to conduct exploratory data analysis about the dataset beforehand with the use of Pandas and data visualization libraries in order to have a comprehensive review of the data and translate my findings and insights in the form of a single page visualization.
