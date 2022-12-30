@@ -1,6 +1,7 @@
 # Pizza_Sales_model
 ### Analysis and visualization of data for find more opportunities to drive more sale of Restaurant.
 
+![ivan-torres-MQUqbmszGGM-unsplash](https://user-images.githubusercontent.com/113659344/210065240-dd2cc1d3-c567-48e8-8512-31929a89c77d.jpg)
 
 
 In this Powerbi Project we have  analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
