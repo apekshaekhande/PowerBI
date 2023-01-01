@@ -12,10 +12,16 @@ Things are going OK here at Plato's, but there's room for improvement.We've been
 Here are some questions that we solved in this project:
 
 Q1 What days and times do we tend to be busiest?
+
 Q2 How many pizzas are we making during peak periods?
+
 Q3 What are our best and worst-selling pizzas?
+
 Q4 What's our average order value?
+
 Q5 what is the month over month sales change of pizza?
+
+Q6 Monthwise analysis of profit.
 
 
 ***Given dataset has following attributes-***
