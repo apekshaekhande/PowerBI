@@ -48,5 +48,5 @@ Q6 Monthwise analysis of profit.
 
 ##### 11)pizza_ingredients: ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they          all include Tomato Sauce, unless another sauce is specified)
 
-##### 12)pizza_name: Name of the pizza as shown in the menu
+##### 12)pizza_name: Name of the pizza as shown in the menu.
 
