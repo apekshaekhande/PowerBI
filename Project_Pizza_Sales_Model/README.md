@@ -28,7 +28,7 @@ Q6 Monthwise analysis of profit.
 
 ##### 1)order_id: Unique identifier for each order placed by a table
 
-##### 2)order_details_id: Unique identifier for each pizza placed within each order (pizzas of the same type and size are kept in the same row, and                           the quantity increases)
+##### 2)order_details_id: Unique identifier for each pizza placed within each order (pizzas of the same type and size are kept in the same row, and            the quantity increases)
 
 ##### 3)pizza_id: Unique key identifier that ties the pizza ordered to its details, like size and price
 
