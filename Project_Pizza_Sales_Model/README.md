@@ -48,3 +48,7 @@ Q6 Monthwise analysis of profit.
 ##### 12)pizza_name: Name of the pizza as shown in the menu.
 
 #### Lets see the visuals one by one
+
+![image](https://user-images.githubusercontent.com/113659344/211207444-fefb1120-daed-472d-86f7-9202255f0d1c.png)
+
+
