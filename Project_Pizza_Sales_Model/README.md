@@ -1,9 +1,6 @@
-# Pizza_Sales_model
+# Restaurant_sales_report
 ### Analysis and visualization of data for find more opportunities to drive more sale of Restaurant.
-
-![Screenshot (63)](https://user-images.githubusercontent.com/113659344/210181080-8eb28f69-c606-413f-a928-7b01c5883e21.png)
-
-
+![Screenshot (129)](https://user-images.githubusercontent.com/113659344/210981971-a222505d-9968-442d-82c8-8f69c90a48ad.png)
 
 In this Powerbi Project we have  analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
 Things are going OK here at Plato's, but there's room for improvement.We've been collecting transacl data for the past year, but really haven't been able to put it to good use. 
